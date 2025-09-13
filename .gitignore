@@ -1,1 +1,7 @@
 frontend/package-lock.json
+# Ignorar arquivos de configuração do VSCode
+.vscode/
+
+# Ignorar arquivos binários .prw
+binary_class.prw
+_binary_functions.prw
