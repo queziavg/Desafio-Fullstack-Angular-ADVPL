@@ -22,7 +22,9 @@
     "@po-ui/ng-templates": "^17.26.23",
     "@po-ui/style": "^17.26.23",
     "@totvs/po-theme": "^17.26.23",
+    "@totvs/protheus-lib-core": "^19.0.2",
     "rxjs": "~7.8.0",
+    "subsink": "^1.0.2",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
   },
